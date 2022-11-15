@@ -1,0 +1,44 @@
+{
+    "user": [
+        {
+            "username": "pooja",
+            "password": "Pooja@123",
+            "profile": {
+                "description": "love to play tennis",
+                "dob": "23.04.2003",
+                "hobbies": "cooking",
+                "gender": "female"
+            }
+        },
+        {
+            "username": "yukti",
+            "password": "Yukti@123",
+            "profile": {
+                "description": "gddfjjie",
+                "dob": "45678",
+                "hobbies": "gyqwjd,x",
+                "gender": "f"
+            }
+        },
+        {
+            "username": "parul",
+            "password": "Parul@123",
+            "profile": {
+                "description": "hjghjknm",
+                "dob": "34567",
+                "hobbies": "sdfghj",
+                "gender": "cvbnm"
+            }
+        },
+        {
+            "username": "sneha",
+            "password": "Sneha#123",
+            "profile": {
+                "description": "sdfghjk",
+                "dob": "sdfghjm",
+                "hobbies": "ertyukl",
+                "gender": "rtyjk"
+            }
+        }
+    ]
+}
